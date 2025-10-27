@@ -1,0 +1,5 @@
+
+{
+  "name": "Iframe URL Loader",
+  "description": "A simple application that displays a website in an iframe. It dynamically constructs the iframe's source URL by extracting a 'phone' parameter from the application's own URL."
+}
